@@ -2,7 +2,7 @@ Description
 -----
 This projects loads a route system from comma seperated text document, and
 returns shortest path between requested stops. It can record the resultant path
-to as a gv file.
+to a gv file (visualized graph).
 
 Dependencies
 -----
@@ -22,7 +22,6 @@ Requirements
     copy
     argparse
     sys
-
 
 Run as
 -----
