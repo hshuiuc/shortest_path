@@ -19,9 +19,9 @@ TripPlanner.py
 Requirements
 -----
 - Python 3
-    copy
-    argparse
-    sys
+    - copy
+    - argparse
+    - sys
 
 Run as
 -----
